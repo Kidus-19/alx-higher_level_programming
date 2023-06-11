@@ -1,6 +1,6 @@
 # !/usr/bin/python3
 """
-A "Rectangle" module
+This is the "Rectangle"  module.
 
 This module provides a simple Rectangle class with attribute width and height.
 Default values of both attributes are 0.
