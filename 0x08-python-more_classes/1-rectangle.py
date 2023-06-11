@@ -8,7 +8,6 @@ Default values of both attributes are 0.
 
 
 class Rectangle:
-
     """A Rectangle class with height and width attributes"""
     def __init__(self, width=0, height=0):
         self.__width = width
