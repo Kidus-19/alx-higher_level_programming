@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// Print three line
+// Print three lines
 
 console.log('C is fun');
 console.log('Python is cool');
