@@ -1,1 +1,1 @@
-This directory contains javascript warm-up exercises.
+This directory contains javascript warmup exercises.
